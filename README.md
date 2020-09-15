@@ -6,5 +6,5 @@ Hello Github!
 alvinn yoo
 Michael
 Ryo
-radian
+Radian
 Simon
